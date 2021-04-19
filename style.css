@@ -2,4 +2,39 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
 }
+h1{
+  text-align: center;
+}
+.center{
+  margin-left:auto;
+  margin-right:auto;
+}
+h3{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:aquamarine;
+}
+
+#fig{font-size: smaller;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#featured-property p{
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+padding-right: 150px;
+}
+#details{
+  float: left;
+  
+}
+div{
+  float: left;
+  text-align: center;
+  width: 25%;
+}
+
